@@ -1,5 +1,3 @@
-SCRIPT RDP GITHUB
-
 name: Cl
 
 on: [push, workflow_dispatch]
